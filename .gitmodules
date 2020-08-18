@@ -1,0 +1,6 @@
+[submodule "3rdparty/ravenna-alsa-lkm"]
+	path = 3rdparty/ravenna-alsa-lkm
+	url = https://bitbucket.org/MergingTechnologies/ravenna-alsa-lkm.git
+[submodule "3rdparty/cpp-httplib"]
+	path = 3rdparty/cpp-httplib
+	url = https://github.com/yhirose/cpp-httplib.git
